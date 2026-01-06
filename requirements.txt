@@ -1,0 +1,7 @@
+fastapi==0.127.0
+uvicorn==0.24.0
+pydantic==2.12.4
+sentence-transformers==5.1.1
+qdrant-client==1.7.0
+pypdf==6.4.0
+requests==2.32.5
