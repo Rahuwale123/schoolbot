@@ -1,7 +1,7 @@
 # Configuration for School RAG and WhatsApp API
 
 # Qdrant Config
-QDRANT_URL = "http://13.127.93.76:6333"
+QDRANT_URL = "http://150.241.245.84:6333"
 COLLECTION_NAME = "school_info"
 MODEL_NAME = "all-MiniLM-L6-v2"
 
